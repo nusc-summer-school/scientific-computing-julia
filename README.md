@@ -95,29 +95,31 @@ scientific-computing-julia/
 ### Example Applications
 This workshop includes the following application examples:
 
-1. ** Climate Model Simulation:**  Solving PDEs for atmospheric dynamics
+1. Climate Model Simulation: Solving PDEs for atmospheric dynamics
 2. Quantum Physics Simulations: Quantum mechanics and many-body physics
 3. Computational Biology: Reaction-diffusion systems and pattern formation
 4. Financial Modeling: Option pricing and risk analysis
-Resources
 
-
-Recommended Reading:
+## Resources
+### Recommended Reading:
 Bezanson, J., Edelman, A., Karpinski, S., & Shah, V. B. (2017). Julia: A Fresh Approach to Numerical Computing. SIAM Review.
 Lauwens, B., & Downey, A. B. (2019). Think Julia: How to Think Like a Computer Scientist. O'Reilly Media.
 Sengupta, A., & Edelman, A. (2019). Julia High Performance. Packt Publishing.
-Online Resources
-Julia Documentation
-Julia Academy
-JuliaHub
-Discourse Forum
-Instructors
+
+### Online Resources
+* Julia Documentation
+* Julia Academy
+* JuliaHub
+* Discourse Forum
+
+### Instructors
 Dr. Maria Gonzalez - Computational Scientist, Harvard University
 GitHub | LinkedIn
-License
+
+### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Acknowledgments
+### Acknowledgments
 We thank all contributors and the NUSC Summer School organising committee for making this workshop possible.
 
 For questions or additional information, please contact us at info@nuscsummerschool.edu
