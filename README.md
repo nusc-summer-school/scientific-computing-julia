@@ -22,16 +22,22 @@ Basic understanding of linear algebra and calculus
 Familiarity with scientific computing concepts
 A laptop with Julia 1.9+ installed
 Workshop Schedule
+
+
 Day 1: Julia Fundamentals for Scientific Computing
 09:00 - 10:30: Introduction to Julia and Its Ecosystem
 10:45 - 12:15: Types, Multiple Dispatch, and Performance
 13:30 - 15:00: Linear Algebra and Array Programming
 15:15 - 16:45: Data Analysis and Visualization
+
+
 Day 2: Numerical Methods and Simulations
 09:00 - 10:30: Numerical Integration and Optimization
 10:45 - 12:15: Solving Ordinary Differential Equations
 13:30 - 15:00: Partial Differential Equations and Finite Differences
 15:15 - 16:45: Monte Carlo Methods and Stochastic Simulations
+
+
 Day 3: Advanced Topics and Applications
 09:00 - 10:30: Parallel and Distributed Computing
 10:45 - 12:15: GPU Programming with Julia
@@ -59,7 +65,7 @@ Create an account on JuliaHub
 Start a new notebook
 Clone this repository or upload the materials
 Option 3: Using Binder
-Show Image
+
 
 Click the Binder badge above to launch a ready-to-use environment in your browser.
 
@@ -79,6 +85,8 @@ scientific-computing-julia/
 ├── Project.toml            # Julia package dependencies
 ├── Manifest.toml           # Julia package versions
 └── README.md               # Workshop information
+
+
 Example Applications
 This workshop includes the following application examples:
 
@@ -87,7 +95,9 @@ Quantum Physics Simulations: Quantum mechanics and many-body physics
 Computational Biology: Reaction-diffusion systems and pattern formation
 Financial Modeling: Option pricing and risk analysis
 Resources
-Recommended Reading
+
+
+Recommended Reading:
 Bezanson, J., Edelman, A., Karpinski, S., & Shah, V. B. (2017). Julia: A Fresh Approach to Numerical Computing. SIAM Review.
 Lauwens, B., & Downey, A. B. (2019). Think Julia: How to Think Like a Computer Scientist. O'Reilly Media.
 Sengupta, A., & Edelman, A. (2019). Julia High Performance. Packt Publishing.
