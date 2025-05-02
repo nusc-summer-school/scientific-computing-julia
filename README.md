@@ -61,15 +61,17 @@ julia
 ## Then install the required packages:
 activate.
 instantiate
-Option 2: Using JuliaHub
+
+### Option 2: Using JuliaHub
 1. Create an account on JuliaHub
 2. Start a new notebook
 3. Clone this repository or upload the materials
    
-Option 3: Using Binder
+### Option 3: Using Binder Link:
+
 https://mybinder.org/v2/gh/nusc-summer-school/scientific-computing-julia/HEAD
 
-Click the Binder badge above to launch a ready-to-use environment in your browser.
+Click the Binder link above to launch a ready-to-use environment in your browser.
 
 
 Repository Structure
