@@ -74,7 +74,7 @@ https://mybinder.org/v2/gh/nusc-summer-school/scientific-computing-julia/HEAD
 Click the Binder link above to launch a ready-to-use environment in your browser.
 
 
-Repository Structure
+## Repository Structure
 scientific-computing-julia/
 ├── data/                   # Datasets used in the workshop
 ├── notebooks/              # Jupyter notebooks for each topic
@@ -92,13 +92,13 @@ scientific-computing-julia/
 └── README.md               # Workshop information
 
 
-Example Applications
+### Example Applications
 This workshop includes the following application examples:
 
-Climate Model Simulation: Solving PDEs for atmospheric dynamics
-Quantum Physics Simulations: Quantum mechanics and many-body physics
-Computational Biology: Reaction-diffusion systems and pattern formation
-Financial Modeling: Option pricing and risk analysis
+1. ** Climate Model Simulation:**  Solving PDEs for atmospheric dynamics
+2. Quantum Physics Simulations: Quantum mechanics and many-body physics
+3. Computational Biology: Reaction-diffusion systems and pattern formation
+4. Financial Modeling: Option pricing and risk analysis
 Resources
 
 
